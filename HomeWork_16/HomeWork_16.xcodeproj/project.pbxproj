@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E76072B4269C4E3A00AFF27B /* HexFromUIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76072B3269C4E3A00AFF27B /* HexFromUIColor.swift */; };
+		E76072B7269C550E00AFF27B /* textToSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76072B6269C550E00AFF27B /* textToSlider.swift */; };
 		E7F6F2AB2696227E007D920E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F6F2AA2696227E007D920E /* AppDelegate.swift */; };
 		E7F6F2AD2696227E007D920E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F6F2AC2696227E007D920E /* SceneDelegate.swift */; };
 		E7F6F2AF2696227E007D920E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F6F2AE2696227E007D920E /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		E76072B3269C4E3A00AFF27B /* HexFromUIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexFromUIColor.swift; sourceTree = "<group>"; };
+		E76072B6269C550E00AFF27B /* textToSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = textToSlider.swift; sourceTree = "<group>"; };
 		E7F6F2A72696227E007D920E /* HomeWork_16.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeWork_16.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7F6F2AA2696227E007D920E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E7F6F2AC2696227E007D920E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 			isa = PBXGroup;
 			children = (
 				E76072B3269C4E3A00AFF27B /* HexFromUIColor.swift */,
+				E76072B6269C550E00AFF27B /* textToSlider.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				E7F6F2AF2696227E007D920E /* ViewController.swift in Sources */,
 				E7F6F2AB2696227E007D920E /* AppDelegate.swift in Sources */,
 				E76072B4269C4E3A00AFF27B /* HexFromUIColor.swift in Sources */,
+				E76072B7269C550E00AFF27B /* textToSlider.swift in Sources */,
 				E7F6F2AD2696227E007D920E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
